@@ -1,0 +1,1210 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Settlement of the mine-adventure</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 66 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59361</idno>
+            <idno type="STC">Wing S2733</idno>
+            <idno type="STC">ESTC R30136</idno>
+            <idno type="EEBO-CITATION">11249621</idno>
+            <idno type="OCLC">ocm 11249621</idno>
+            <idno type="VID">47126</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59361)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47126)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1450:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Settlement of the mine-adventure</title>
+                  <author>Mackworth, Humphrey, Sir, 1657-1727.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Dated at end: 1698.</note>
+                  <note>Legal settlement between Sir Humphrey Mackworth and partners in the mines formerly owned by Sir Carbery Pryse.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mines and mineral resources --  Wales.</term>
+               <term>Mineral industries --  Wales --  Finance.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:47126:1" rendition="simple:additions"/>
+            <head>A SETTLEMENT OF THE Mine-Adventure.</head>
+            <p>
+               <hi rend="blackletterType">
+                  <seg rend="decorInit">K</seg>Now all Men</hi> by theſe Preſents, 
+<note place="margin">A Recital of the Indenture
+<hi>Quadrupar<g ref="char:EOLhyphen"/>tite,</hi> dated 3d. of <hi>Aug.</hi> 1698.</note>That
+<hi rend="blackletterType">Whereas</hi> by one Indenture <hi>Quadrupartite,</hi>
+bearing date the Third Day of <hi>Auguſt</hi> laſt paſt, in the Tenth
+Year of the Reign of our Sovereign Lord <hi>William</hi> the Third, by the
+Grace of God over <hi>England, Scot<g ref="char:EOLhyphen"/>land, France,</hi> and <hi>Ireland,</hi>
+King, Defender of the Faith, <hi>&amp;c.</hi> and in the Year of our Lord 1698;
+and made <hi rend="blackletterType">Between</hi> the moſt Noble his Grace the
+Duke of <hi>Leeds,</hi> and others, Partners of the Mines late of Sir
+<hi>Carbery Pryſe,</hi> of the firſt Part; <hi>Thomas Done</hi> of
+<hi>Lin<g ref="char:EOLhyphen"/>colns-Inn-Fields,</hi> in the County of <hi>Middleſex</hi>
+               <abbr>Eſq</abbr> 
+               <hi>Richard Hore</hi> of <hi>London</hi> Goldſmith,
+<hi>Robert Fowles</hi> of <hi>London</hi> Goldſmith, and <hi>Nicholas
+Baker</hi> of <hi>London</hi> Gent. of the ſecond Part; Sir <hi>Humphrey
+Mackworth</hi> late of the <hi>Middle-Temple, London,</hi> and now of
+<hi>Lincolns-Inn</hi> in the ſaid County of <hi>Middleſex,</hi> Kt. and
+<hi>Edward Pryſe</hi> of <hi>Gogarthen</hi> in the County of
+<hi>Cardigan,</hi> 
+               <abbr>Eſq</abbr> of the third Part: Sir <hi>Joſeph
+Herne</hi> of <hi>London</hi> Kt. Sir <hi>William Hedges</hi> of
+<hi>London</hi> Kt. Sir <hi>Thomas Vernon</hi> of <hi>London</hi> Kt. and
+<hi>Thomas Pitt</hi> of <hi>Little-Lincolns-Inn-Fields</hi> in the ſaid
+County of <hi>Middleſex,</hi> 
+               <abbr>Eſq</abbr> of the fourth Part.</p>
+            <p>
+               <note place="margin">Whereby the old Truſtees and Partners have
+Aſſigned over to the new Tru<g ref="char:EOLhyphen"/>ſtees.</note>
+               <hi rend="blackletterType">They</hi> the ſaid <hi>Thomas Done, Richard Hore, Robert
+Fowles,</hi> and <hi>Nicholas Baker,</hi> by the Directions, and by and with
+the Conſent of all the Parties thereunto, and of the Chair-Man and Committee
+for the Management of the ſaid Mines, teſti<g ref="char:EOLhyphen"/>fied by their being Parties to
+the ſaid Indenture, and they the ſaid Partners and every of them, for the
+Conſiderations therein expreſſed,</p>
+            <p>
+               <hi rend="blackletterType">Have</hi> Given, Granted, Aſſigned,
+Transferred, and Set over unto the ſaid Sir <hi>Joſeph Herne,</hi> Sir
+<hi>William Hedges,</hi> Sir <hi>Thomas Vernon,</hi> and <hi>Thomas Pitt,
+<hi rend="blackletterType">All</hi>
+               </hi> and ſingular the Mines, Ores, and
+Minerals, lying and being in a certain Moun<g ref="char:EOLhyphen"/>tain, Waſte, or Common called
+<hi>Bwlchyr Eſgairhyr</hi> in the Pariſh of <hi>Lanvihangel Generglyn,</hi>
+in the County of <hi>Cardigan,</hi> within the Boundaries therein mentioned,
+and all the Liberties, Authorities, and Privileges, and all other things
+thereunto belonging; <hi rend="blackletterType">To have and to hold</hi> all and
+ſingular the ſaid Mines, Ores, Mi<g ref="char:EOLhyphen"/>nerals and Premiſes with the
+Appurtenances, unto the ſaid Sir <hi>Joſeph Herne,</hi> Sir <hi>William
+Hedges,</hi> Sir <hi>Thomas Vernon,</hi> and <hi>Thomas Pitt,</hi> their
+Executors, Adminiſtra<g ref="char:EOLhyphen"/>tors and Aſſigns, for and during all the reſt and
+reſidue of ſaid Term of Twenty Two Years and a Half, then to come and
+unexpired, 
+<note place="margin">
+                  <g ref="char:V">Ʋ</g>pon Truſt.</note>under the ſeveral
+Truſts and Confidences, and under the Conditions and Limitations, and to the
+ſeveral Uſes, Intents and Purpoſes therein mentioned and ſet forth,
+That is to ſay,</p>
+            <p>
+               <note place="margin">The Declarati<g ref="char:EOLhyphen"/>on thereof.</note>That if the
+ſaid Sir <hi>Humphrey Mackworth</hi> ſhould at any time within the Space of
+Twenty Days next enſuing the Date thereof, or within the ſpace of Six Days
+next after the Sealing and Delivery of the ſaid Indenture by the Parties
+therein mentioned, 
+<note place="margin">The Expedient to be propoſed.</note>and every
+of them Propoſe and Open to the ſaid Partners, or ſuch of them as
+ſhould appear at a General Meeting, an Expedient for Clearing and Sa<g ref="char:EOLhyphen"/>tisfying
+all the Debts wherewith the ſaid Mines then ſtood Charged, and for
+rai<g ref="char:EOLhyphen"/>ſing Twenty Thouſand Pounds for a Stock for carrying on the Works of
+the ſaid Mines, without any Premium or Repayment of either Principal or
+In<g ref="char:EOLhyphen"/>tereſt, to the Intent that the ſaid Partners might become Adventurers
+with him in<pb n="2" facs="tcp:47126:2"/>ſuch New Method as ſhould be propoſed for
+the Purpoſes aforeſaid, in propor<g ref="char:EOLhyphen"/>tion to their ſeveral Intereſts and
+Shares they then had in the ſaid Mines; or ſo many of them as ſhould
+think fit to become Adventurers with the ſaid Sir <hi>Hum<g ref="char:EOLhyphen"/>phrey
+Mackworth.</hi>
+            </p>
+            <p>And ſhould at any time before the Firſt Day of
+<hi>Auguſt</hi> next enſuing the Date of the ſaid Indenture, pay or
+cauſe to be paid to ſuch of the ſaid Partners, who ſhould within the
+ſpace of Ten Days next after the ſaid Propoſal ſhould be made and
+open'd by the ſaid Sir <hi>Humphrey Mackworch,</hi> to the ſaid Partners as
+aforeſaid, declare they would not engage with the ſaid Sir <hi>Humphrey
+Mackworth,</hi> according to ſuch Propoſal, but would under their Hands and
+Seals Releaſe and Relinquiſh their Shares and Intereſt in the ſaid
+Mines, Ten Pounds for every Share of ſuch Perſons who ſhould ſo
+Relinquiſh their Shares and Intereſt therein, within the time
+aforeſaid.</p>
+            <p>
+               <note place="margin">The Partners have an Electi<g ref="char:EOLhyphen"/>on to take 20
+<abbr>l.</abbr> 
+                  <hi>per</hi> Share, or to become Ad<g ref="char:EOLhyphen"/>venturers again under a new
+Conſtitution and a large Stock of 20000 <abbr>l.</abbr>
+               </note>The Intent of
+the ſaid Indenture being that it ſhould be at the Election of the ſaid
+Partners and every of them either to become Adventurer or Adventurers with the
+ſaid Sir <hi>Humphrey Mackworth,</hi> according to the intended Propoſal;
+or to relinquiſh their Shares in the ſaid Mines for Ten Pound <hi>per</hi>
+Share, within the time aforeſaid, and Ten Pounds <hi>per</hi> Share to be
+ſecured as therein is mentioned; 
+<note n="*" place="margin">Election to be made in 10 Days after
+Propoſal.</note>which Election every of the ſaid Partners ſhould make
+within the Space of Ten Days next after ſuch Propoſal ſo as aforeſaid
+ſhould be made.</p>
+            <p>That then and in ſuch Caſe the ſaid Sir <hi>Joſeph
+Herne,</hi> Sir <hi>William Hedges,</hi> Sir <hi>Thomas Vernon</hi> and
+<hi>Thomas Pitt,</hi> their Executors, Adminiſtrators and Aſſigns,
+ſhould and would ſtand poſſeſſed and intruſted with the ſaid
+Mines in <hi rend="blackletterType">Truſt,</hi> out of the clear Profits that
+ſhould be made by and from the ſaid Mines, to pay to every ſuch of the
+ſaid Partners, who ſhould in manner aforeſaid relinquiſh their Shares
+in the ſaid Mines, the farther Sum of Ten Pounds for every Share ſo to be
+Relinquiſhed.</p>
+            <p>
+               <note place="margin">Truſtees are to permit ſuch Perſons to
+ma<g ref="char:EOLhyphen"/>nage and enjoy the Profits of the Mines, as ſhall be ap<g ref="char:EOLhyphen"/>pointed by the
+ſaid Sir <hi>H. Mackworth.</hi>
+               </note>And ſo charged ſhould and would
+Permit and Suffer the ſaid Sir <hi>Humphrey Mack<g ref="char:EOLhyphen"/>worth</hi> and ſuch other
+Perſon and Perſons, his and their Aſſignee and Aſſignes to be made
+in Manner as therein is Deſcribed, and in ſuch Proportion, Manner and Form
+as the ſaid Sir <hi>Humphrey Mackworth</hi> under his Hand and Seal ſhould
+direct and Appoint from time to time, and at all times hereafter, during the
+ſaid ſeveral and reſpective Terms of Years therein mentioned, according
+to, and in ſuch Manner as ſhould be contained in ſuch Propoſal as
+ſhould be made by the ſaid Sir <hi>Humphrey Mackworth,</hi> purſuant to
+the Agreements therein contained, to Manage the ſaid Mines and Premiſes,
+and to enjoy the Profits thereof, and to diſpoſe of the Oar then raiſed
+out of the ſaid Mines, to his and their own proper Uſe and Uſes, and to
+ſuch other Uſe and Uſes as the ſaid Sir <hi>Humphrey Mackworth</hi>
+ſhould under his Hand and Seal limit and appoint, according to the
+Conſtitution therein ſet forth, and to the true Intent and Meaning of the
+ſaid recited Indenture, and ſuch Propoſition as ſhould be ſo made by
+the ſaid Sir <hi>Humphrey Mackworth,</hi> as aforeſaid.</p>
+            <p>
+               <note place="margin">A farther Term of five Years granted</note>And
+whereas the ſaid <hi>Edward Pryſe,</hi> by the Direction and Conſent of
+the ſaid Sir <hi>Humphrey Mackworth,</hi> hath by the ſaid recited
+Indenture, Given, Granted, and Aſſign'd unto the ſaid Truſtees the
+ſaid Mines and Premiſes, for and during the further Term of Five Years,
+next after the Determination of the ſaid Term of Twenty Two Years and a Half,
+under the Truſts therein ſet forth.</p>
+            <p>
+               <hi rend="blackletterType">Now know ye,</hi> That the ſaid Sir
+<hi>Humphrey Mackworth</hi> doth hereby propoſe and open to the ſaid
+preſent Partners, at a General Meeting, an Expedient for clearing and
+ſatisfying all the Debts wherewith the ſaid Mines then ſtood charged, and
+for raiſing the ſaid Twenty Thouſand Pounds for a Stock for carrying on
+the working of the ſaid Mines, and for paying or ſecuring to ſuch of the
+ſaid Partners as ſhall be unwilling again to become Adventurers with him
+the ſaid Sir <hi>Humphrey Mack<g ref="char:EOLhyphen"/>worth,</hi> under this preſent Propoſal,
+the Sum of Twenty Pounds for every Share they then reſpectively had in the
+ſaid Mines, in Manner and Form as is in and by the ſaid recited Indenture
+directed, and according to the true intent and meaning thereof: that is to
+ſay,</p>
+            <p>
+               <note place="margin">The Propoſal of a Lottery.</note>The ſaid
+Sir <hi>Humphrey Mackworth</hi> doth hereby propoſe, declare, direct and
+ap<g ref="char:EOLhyphen"/>point that the ſaid Mines be divided into Four Thouſand and Eight equal
+Parts or Shares, and that the ſame be expoſed to Sale at the Rate and Value
+of One Hun<g ref="char:EOLhyphen"/>dred Twenty five thouſand Pounds to be raiſed by way of Lottery,
+that is to ſay, that Twenty-five Thouſand Tickets or Lots be delivered our
+at 5 <hi>
+                  <abbr>l.</abbr> per</hi> Ticket, whereof Two Thouſand Five Hundred
+ſhall be Fortunate and Benefited Tickets, and carry with them ſuch
+Advantages as are herein after mentioned.</p>
+            <p>
+               <note place="margin">How the Money raiſed is to be
+applyed.</note>And that the ſaid Twenty-five Thouſand Tickets, and ſuch
+Money as ſhall be had and received for them, or any of them, be applied and
+appropriated to the<pb n="3" facs="tcp:47126:2"/>Uſes following: That is to ſay, Twenty
+Thouſand Pounds, thereof for the Uſe of ſuch Perſons as ſhall be
+Fortunate Adventurers, and as a Stock for the effectual working and carrying on
+the ſaid Mineral Works; and which is never to be leſſened on any
+dividend, but is to be divided at the end of the term amongſt the Fortunate
+Adventurers and their Aſſigns; and Eighty thouſand one hundred and Sixty
+Pounds thereof, either in Tickets or Money, for the Uſe of all the pre<g ref="char:EOLhyphen"/>ſent
+Partners, every Partner being to have his Election for 10 Days next enſuing
+(or ſuch other time as the ſaid Sir <hi>Humphrey Mackworth</hi> ſhall
+appoint) either to become Adventurer with him the ſaid Sir <hi>Humphrey
+Mackworth,</hi> according to this preſent Propoſal, and ſo to take
+Tickets for his Shares at the rate of 20 <hi>
+                  <abbr>l</abbr> per</hi> Share, or
+elſe to take 10 <hi>
+                  <abbr>l.</abbr> per</hi> Share in Money, (in caſe this
+Propoſal take effect) and 10 <hi>
+                  <abbr>l.</abbr> per</hi> Share more upon the
+Credit of the ſaid Mines, according to the true intent and meaning of the
+ſaid recited Settlement. And Twenty-four Thouſand Eight Hundred and Forty
+Pounds the reſidue thereof, ſhall be applyed, either in Money or Tickets,
+for the paying and diſcharging of all Annuities, Debts, Duties and Demands,
+charged or chargeable upon the ſaid Mines, and of all Charges and Expences of
+this preſent Undertaking, at the Diſcretion of the ſaid Sir <hi>Hum<g ref="char:EOLhyphen"/>phrey
+Mackworth:</hi> and the reſidue of the ſaid Twenty-four Thouſand Eight
+Hun<g ref="char:EOLhyphen"/>dred and Forty Pounds, either in Tickets or Money, at the Election of the
+ſaid Sir <hi>Humphrey Mackworth,</hi> or elſe one Twelfth Part of the clear
+Profits of the ſaid Mines, above all Charges, at his Election ſhall be
+applied and appropriated for ſuch Charitable Uſes, and in ſuch
+Proportion, manner and form as the ſaid Sir <hi>Humphrey Mackworth</hi>
+ſhall by any Deed or Deeds, under his Hand and Seal limit and appoint: And in
+caſe the ſaid Sir <hi>Humphrey Mackworth</hi> ſhall elect the later, then
+Ten thouſand Pounds in Money or Tickets ſhall be applied to the uſe of
+all the Adventurers.</p>
+            <p>
+               <note place="margin">The Fortunate Adventurers are to manage and
+receive the Profits of the Mines, and to pay Intereſt at 6 <hi>per Cent.</hi>
+to every Adven<g ref="char:EOLhyphen"/>turer yearly, e<g ref="char:EOLhyphen"/>very Second <hi>Wedneſday</hi> in
+<hi>June.</hi>
+               </note>And that the ſaid Truſtees ſhall and will from time
+to time and at all times here<g ref="char:EOLhyphen"/>after permit and ſuffer ſuch Perſon and
+Perſons as ſhall be Fortunate Adventurers, his and their Aſſigns, to
+manage the ſaid Mines according to the Conſtitutions and Agreements in the
+ſaid recited Settlement ſet forth, and to receive the clear Profits
+thereof, ſubject to the ſaid recited Settlement, to the Uſes following;
+that is to ſay, To the Uſe, Intent and Purpoſe, that every Adventurer,
+whether For<g ref="char:EOLhyphen"/>tunate or Unfortunate, his and their Executors, Adminiſtrators
+and Aſſigns, ſhall in the firſt Place, Yearly and every Year, on every
+Second <hi>Wedneſday</hi> in <hi>June,</hi> or within Ten Days after, have,
+receive, and be paid his and their ſeveral and re<g ref="char:EOLhyphen"/>ſpective
+Intereſt-Money, at the Rate of 6 <hi>
+                  <abbr>l.</abbr> per Cent.</hi> which
+ſhall from Year to Year become due and payable to them and every of them
+reſpectively, for and upon Account of the ſeveral and reſpective Sums of
+Money, ſo by them and every of them adventured as aforeſaid.</p>
+            <p>
+               <note place="margin">And to pay the Principal as the Profits
+ariſe.</note>
+               <hi rend="blackletterType">And</hi> after Payment thereof, the
+ſaid Profits of the ſaid Mines and Premiſes ſhall be Annually applied
+for and towards the Payment of the ſeveral and reſpe<g ref="char:EOLhyphen"/>ctive Principal Sums
+of Money ſo contributed and adventured as aforeſaid, to all and every
+Adventurer and Adventurers, both Fortunate and Unfortunate (before any Dividend
+ſhall be made thereof to the Fortunate Adventurers alone) in equal Proportion
+according to the ſaid ſeveral and reſpective Sums by them reſpectively
+contributed and Adventured as aforeſaid.</p>
+            <p>
+               <note place="margin">And then twen<g ref="char:EOLhyphen"/>ty thouſand Pounds <hi>per
+An<g ref="char:EOLhyphen"/>num.</hi> to the Fortunate and the Overplus to a ſecond Pay<g ref="char:EOLhyphen"/>ment of the
+Principal Mo<g ref="char:EOLhyphen"/>ney adventu<g ref="char:EOLhyphen"/>red.</note>And after payment of the ſaid ſeveral
+and reſpective principal Sums ſo contribu<g ref="char:EOLhyphen"/>ted and adventured as
+aforeſaid, to every Adventurer both Fortunate and Unfortu<g ref="char:EOLhyphen"/>nate with
+Intereſt at the rate of 6 <hi>
+                  <abbr>l.</abbr> per Cent.</hi> in manner
+aforeſaid, then Twenty thouſand Pounds <hi>per An.</hi> of the ſaid
+Profits of the ſaid Mines and Premiſes, ſhall be applyed and paid to the
+Uſe of the Fortunate Adventures alone, and their Aſ<g ref="char:EOLhyphen"/>ſignes, during the
+ſaid ſeveral and reſpective Termes of Years above mention<g ref="char:EOLhyphen"/>ed, in equal
+Proportion according to their ſeveral and reſpective Intereſts and Shares
+therein, and the Overplus of the ſaid Profits that ſhall be, after the
+ſaid annual Summ of twenty thouſand Pounds and all the Arrears thereof,
+ſhall be ſatisfyed (in caſe there ſhall be any Arrears by reaſon the
+Profits of the ſaid Mines in any Year or Years ſhall not diſcharge the
+ſaid twenty thouſand Pound), ſhall be applyed and paid to the Uſe of
+both Fortunate and Unfortu<g ref="char:EOLhyphen"/>nate Adventurers, in equal Proportion according to
+the ſeveral and reſpective Sums of Money by them reſpectively Contributed
+and Adventured as afore<g ref="char:EOLhyphen"/>ſaid, for and towards a ſecond Payment thereof.</p>
+            <p>
+               <note n="*" place="margin">And than for<g ref="char:EOLhyphen"/>ty thouſand Pounds <hi>per
+An<g ref="char:EOLhyphen"/>num.</hi> to the Fortunate and the Overplus to a third Pay<g ref="char:EOLhyphen"/>ment of the
+Principal Mo<g ref="char:EOLhyphen"/>ney adventu<g ref="char:EOLhyphen"/>red.</note>And after ſuch ſecond Payment of the
+ſaid ſeveral and reſpective Principal Sums ſo adventured as
+aforeſaid, to every Adventurer both Fortunate and Un<g ref="char:EOLhyphen"/>fortunate (without
+Intereſt) in manner aforeſaid, then Forty thouſand Pounds <hi>per
+An.</hi> of the ſaid Profits of the ſaid Mines and Premiſes, ſhall be
+applyed and paid to<pb n="4" facs="tcp:47126:3"/>the Uſe of the Fortunate Adventurers
+alone and their Aſſigns, during the ſaid ſeve<g ref="char:EOLhyphen"/>ral and reſpective
+Terms of Years above mentioned in equal Proportion, accor<g ref="char:EOLhyphen"/>ding to their
+ſeveral and reſpective Intereſts and Shares therein, and the Over<g ref="char:EOLhyphen"/>plus of
+the ſaid Profits that ſhall be, after the ſaid annual Summ of forty
+thou<g ref="char:EOLhyphen"/>ſand Pounds and all the Arrears thereof, ſhall be ſatisfyed (in
+caſe there ſhall be any Arrears by reaſon the Profits of the ſaid
+Mines, in any Year or Years ſhall not diſcharge the ſaid forty thouſand
+Pounds), ſhall be applyed and paid to the Uſe of both Fortunate and
+Unfortunate Adventurers, in equal Proportion according to the ſeveral and
+reſpective Sums by them reſpectively Contributed and Adventured as
+aforeſaid, For, and towards a third Payment thereof. And ſo on, in like
+Manner after every Payment of the Principal Money adventured to both Fortunate
+and Unfortunate Adventurers in manner aforeſaid, The For<g ref="char:EOLhyphen"/>tunate Adventurers
+alone, are to have an additional Profit from the ſaid Mines, amounting to the
+annual Value of Twenty thouſand Pounds <hi>per Annum,</hi> and the Overplus
+above that Encreaſe, and all the Deficiencies thereof in any former Year or
+Years, is ſtill to be applyed to another Payment of the ſaid Principal
+Money adventured without Intereſt to both Fortunate and Unfortunate
+Adventurers in manner aforeſaid; and a Transfer Book ſhall be provided at
+the common Charge for Transferring the Intereſt of the Unfortunate, in the
+manner as is provided for the Fortunate Adventurers, in the ſaid recited
+Settlement.</p>
+            <p>
+               <note place="margin">And in Default of Payment ac<g ref="char:EOLhyphen"/>cordingly,
+Tru<g ref="char:EOLhyphen"/>ſtees to enter and Diſpoſe the Profits to the <g ref="char:V">Ʋ</g>ſes here<g ref="char:EOLhyphen"/>in ſet
+forth.</note>And the ſaid Sir <hi>Humphrey Mackworth</hi> doth propoſe,
+direct, and appoint, That in Caſe the ſaid Gains, Profits and Proceeds of
+the ſaid Stock, Mines and Premiſes, ſhall be Miſmanaged by the
+Managers, and ſhall not be applied and paid to ſuch Perſon and Perſons,
+and for ſuch Uſes, Intents and Pur<g ref="char:EOLhyphen"/>poſes, and in ſuch Proportion,
+Manner and Form as is herein mentioned and directed; That then it ſhall and
+may be Lawful to and for the ſaid Sir <hi>Joſeph Herne,</hi> Sir
+<hi>William Hedges,</hi> Sir <hi>Thomas Vernon</hi> and <hi>Thomas Pitt,</hi>
+or any of them, and the Survivor and Survivors of them, and the Executors,
+Adminiſtrators and Aſſigns of ſuch Survivor or Survivors, or any of
+them, (for and during ſuch time as the Profits of the Premiſes ſhall not
+be applied and paid to the Uſes aforeſaid, and herein after mentioned) to
+enter upon the ſaid Stock, Mines and Premiſes, and to govern and manage the
+ſame, and to receive the Profits thereof, to the Uſes, In<g ref="char:EOLhyphen"/>tents and
+Purpoſes herein mentioned and directed, and to no other Uſe, Intent or
+purpoſe whatſoever.</p>
+            <p>
+               <note place="margin">Five hundred Tun of Oar, &amp; ſixty Tun of
+Lead, are given to the Fortu<g ref="char:EOLhyphen"/>nate Adventu<g ref="char:EOLhyphen"/>rers.</note>And that Five hundred Tun
+of Silver and Potters Oar now lying on, or near the Banks of the ſaid Mines,
+and ſixty Tun of Lead now lying at the ſmelting Mills, or Store houſes
+thereto belonging, be appropriated to the Uſe of the For<g ref="char:EOLhyphen"/>tunate
+Adventurers.</p>
+            <p>
+               <note n="*" place="margin">Smelting Mills to be e<g ref="char:EOLhyphen"/>rected near the
+Mines, and near the Coal, and Veſſels to be built to carry one to the
+other.</note>And that one large Smelting, Extracting, and Refining Mill be
+Erected and Built at the common Charge, near to Coal, for the uſe of the
+Fortunate Adven<g ref="char:EOLhyphen"/>turers, and upon the Land of the ſaid Sir <hi>Humphrey
+Mackworth,</hi> at or near <hi>Neath</hi> in the County of <hi>Glamorgan;</hi>
+and one other Smelting, Extracting, and Refining Mill be Erected and Built at
+the common Charge for their Uſe, in ſome conve<g ref="char:EOLhyphen"/>nient place near the Sea, in
+the County of <hi>Cardigan:</hi> And that one or more Veſſel or Veſſels
+ſhall be Built or bought at the common Charge for carrying Ore from the
+ſaid Mines by Sea to <hi>Neath</hi> aforeſaid; and for carrying Coal back
+again from <hi>Neath</hi> to the Port of <hi>Aberdovey</hi> in the ſaid
+County of <hi>Cardigan,</hi> which ſaid Coal ſhall be from time to time
+bought of the ſaid Sir <hi>Humphrey Mackworth</hi> by the For<g ref="char:EOLhyphen"/>tunate
+Adventurers, and ſhall be ſold to them by him at the Currant
+Market-Price.</p>
+            <p>And farther that the ſaid Lottery ſhall be managed and drawn
+after the Man<g ref="char:EOLhyphen"/>ner of the Million Lottery ſettled by Act of Parliament, That
+is to ſay.</p>
+            <p>
+               <note place="margin">The Managers and Directors</note>That the
+ſaid Truſtees, Sir <hi>Joſeph Herne,</hi> Sir <hi>William Hedges,</hi>
+Sir <hi>Thomas Vernon, Thomas Pitt,</hi> Sir <hi>William
+Aſhburſt</hi> of <hi>London,</hi> Knight, Sir <hi>John Houblon</hi> of
+<hi>London,</hi> Knight, Sir <hi>James Houblon</hi> of <hi>London,</hi> Knight,
+Sir <hi>Francis Child</hi> of <hi>London,</hi> Knight, Sir <hi>Tho. Cuddon</hi>
+of <hi>London,</hi> Knight, Sir <hi>Robert Bedingfeild</hi> of <hi>London,</hi>
+Knight, and ſuch other Perſon and Perſons as the ſaid Sir <hi>Humphrey
+Mack<g ref="char:EOLhyphen"/>worth</hi> ſhall at any time hereafter under his Hand, Nominate and
+Appoint, ſhall be Managers and Directors for preparing and delivering of
+Tickets, and to overſee the drawing of Lots, and to Order, Do and Perform all
+ſuch other Mat<g ref="char:EOLhyphen"/>ters and Things as are hereafter in and by theſe Preſents
+Directed or Appointed by ſuch Managers or Directors to be done and
+Performed.</p>
+            <p>
+               <note place="margin">Shall cauſe Books to be pre<g ref="char:EOLhyphen"/>pared
+with</note>And that the ſaid Managers and Directors ſhall meet together
+from time to time at ſome Publick Office or Place within the Cities of
+<hi>London</hi> or <hi>Weſtminſter,</hi> for the Execution of the Powers
+and Truſts in them repoſed by theſe Preſents; and that the ſaid
+Managers or Directors, or ſo many of them as ſhall be preſent 
+<pb n="5" facs="tcp:47126:3"/>at any ſuch Meeting or the major Part of them, or ſuch
+other Perſon or Perſons as they ſhall appoint, ſhall cauſe Books to
+be prepared, in which every Leaf ſhall be divided or diſtinguiſhed into
+Three Colums, 
+<note place="margin">25000 Num<g ref="char:EOLhyphen"/>bred Tickets.</note>and upon the
+Innermoſt of the ſaid Colums there ſhall be Printed Twenty Five
+Thouſand Tickets Numbred 1, 2, 3. and ſo onwards in Arithmatical
+Progreſſion, where the common Exceſs is to be One, until they ariſe to
+and for the Number of Twenty Five Thou<g ref="char:EOLhyphen"/>ſand.</p>
+            <p>And upon the Middle Colum of every the ſaid Books there ſhall
+be Printed Twenty Five Thouſand Tickets of the ſame Length, Breadth and
+Form, and Numbred in like manner. And upon the Extream Colums of the ſaid
+Books ſhall be Printed a Third Rank or Series of Tickets of the ſame
+Numbers with thoſe in the Two other Colums, which Tickets ſhall ſeverally
+be of an Oblong Figure, and in the ſaid Books ſhall be joined with Oblique
+Lines, in ſuch manner as is herein deſcribed.</p>
+            <q> 
+               <table>
+                  <row>
+                     <cell> 
+                        <p>
+                           <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> 100.</p> 
+                        <p>Sept. 22. 1698.</p> 
+                        <p>
+                           <hi>
+                              <gap reason="illegible" resp="#OXF" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> Roe</hi>
+of <hi>London,</hi> Merchant.</p>
+                     </cell>
+                     <cell> 
+                        <p>N<hi rend="sup">o</hi> 100.</p> 
+                        <p>Sept. 22. 1698.</p> 
+                        <p>
+                           <hi>Richard Roe</hi> of <hi>London,</hi>
+Merchant.</p>
+                     </cell>
+                     <cell> 
+                        <p>N<hi rend="sup">o</hi> 100.</p> 
+                        <p>Th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>s Ticket
+entitles the Bearer to F<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> Pounds
+with Intereſt at 6 <hi>per Cent.</hi>
+                           <gap reason="illegible" resp="#OXF" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> a farther conſiderable
+Profit, and (<gap reason="illegible" resp="#OXF" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>
+                           <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>ance) to a great Yearly Sum for
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> Years out of the Profits of the
+Min<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> of Sir <hi>Carb<gap reason="illegible" resp="#OXF" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ry Pryſe.</hi>
+                        </p>
+                     </cell>
+                  </row>
+               </table>
+            </q>
+            <p>And that every Ticket in the Third or Extream Colums of the ſaid
+Books ſhall have Written or Printed thereupon (beſides the Number) Words to
+this Effect; to wit,</p>
+            <q>This Ticket entitles the Bearer to Five Pounds with Intereſt at
+6 <hi>per Cent.</hi> and to a farther conſiderable Profit, and (by Chance) to
+a great Yearly Sum for Twenty Two Years, out of the Profits of the Mines late
+of Sir <hi>Carbery Pryſe.</hi>
+            </q>
+            <p>
+               <note place="margin">The Receivers</note>And that it ſhall and may
+be Lawful to and for the ſaid Sir <hi>Humphrey Mack<g ref="char:EOLhyphen"/>worth,</hi> by any
+Inſtrument or Writing under his Hand and Seal to conſtitute and appoint
+ſuch and ſo many Perſons as he ſhall think fit to intruſt or employ,
+to be Receiver and Recievers within the Cities of <hi>London</hi> and
+<hi>Weſtminſter,</hi> and ſuch other Cities, Towns and Places in
+<hi>England,</hi> as to him ſhall ſeem meet, who ſhall be and are hereby
+appointed Receivers for the better expediting and carrying on of this Service,
+he the ſaid Sir <hi>Humphrey Mackworth</hi> taking from the ſaid Re<g ref="char:EOLhyphen"/>ceivers
+reſpectively, ſuch Security as he ſhall think fit, 
+<note place="margin">To pay the Mo<g ref="char:EOLhyphen"/>ney into the Bank of
+<hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+               </note>for the due Anſwering and Paying of the Moneys which
+they ſhall ſeverally receive, into the Royal Bank of <hi>England,</hi> in
+Truſt, and to the ſeveral and reſpective Uſes herein and in the ſaid
+recited Indenture mentioned and ſet forth; and for the due Performance of the
+Truſts in them repoſed.</p>
+            <p>
+               <note place="margin">Managers ſhall examine the Books and Tickets.
+And deliver the ſame to the Receivers, ta<g ref="char:EOLhyphen"/>king a Receipt.</note>And farther,
+that the ſaid Managers and Directors, or ſo many of them as ſhall be
+preſent at ſuch a meeting as aforeſaid, or the major part of them then
+preſent, or ſuch other Perſon or Perſons as ſhall be by them, or any
+three of them entruſted for that purpoſe, ſhall carefully examine all the
+ſaid Books with the Tickets therein, and ſee that the ſame be contrived,
+numbred, and made according to the true intent and meaning of theſe
+Preſents, and ſhall then deliver or cauſe to be delivered the ſame
+Books to the ſaid Receivers, taking from each Receiver an Acknowledgment in
+Writing under his Hand importing his Re<g ref="char:EOLhyphen"/>ceipt of ſuch Book or Books, and ſo
+many Tickets therein as ſhall be delivered to him reſpectively, that ſo
+the ſaid Receiver may be charged to anſwer Five Pounds in Money for every
+one of the ſaid Tickets in the extream Columes which ſhall be delivered to
+him, or for ſo many of them as he ſhall not return back to the ſaid
+Managers or Directors, or to ſuch other Perſon or Perſons as they ſhall
+appoint as aforeſaid.</p>
+            <p>
+               <note place="margin">The Receiver to cut one Ticket for every 5
+<hi>
+                     <abbr>l.</abbr>
+                  </hi> through the ob<g ref="char:EOLhyphen"/>lique Lines.</note>And every ſuch
+Receiver reſpectively upon his receiving of every or any Sum of Five Pounds
+from any Perſon or Perſons adventuring as aforeſaid, ſhall cut out of
+the ſaid Book or Books, ſo to be put into his Cuſtody, through the ſaid
+oblique Lines indentwiſe a Ticket of the Tickets in the ſaid extream
+Columes.</p>
+            <p>
+               <pb n="6" facs="tcp:47126:4"/>
+               <note place="margin">Adventurers to write their
+Names, Sur<g ref="char:EOLhyphen"/>names, Quali<g ref="char:EOLhyphen"/>ties, Places of Abode, and Day of the Month on the
+Tickets. For ſecuring their Shares on Benefit Tickets, and alſo for
+ſe<g ref="char:EOLhyphen"/>curing their principal and Intereſt from the day of the Month entred
+thereon.</note>And the ſaid Receivers and every of them, ſhall permit every
+ſuch Adventurer to write, or cauſe to be writ, his Name, Surname, and Place
+of Abode, and Day of the Month on the two correſponding Tickets in the ſame
+Book; and at the ſame time the ſaid Receiver ſhall deliver to the ſaid
+Adventurer the ſaid Ticket ſo cut off, which he, ſhe, or they may
+immediately Indorſe, or cauſe to be In<g ref="char:EOLhyphen"/>dorſed, with their reſpective
+Names and Day of the Month, and keep and uſe for the better aſſertaining
+and ſecuring of their principal Money ſo adventured as aforeſaid with
+Intereſt at Six Pound <hi>per Cent.</hi> and of the reſpective Shares which
+he, ſhe or they, his, her or their Aſſignees may alſo have in the
+ſaid Mines, and in the Profits and Proceeds thereof as aforeſaid, for the
+Money ſo by him, her or them adventured as aforeſaid.</p>
+            <p>And that the ſaid ſeveral Receivers on the Twelfth Day of
+<hi>January</hi> next inſuing, or on ſuch other day as ſhall be appointed
+by the ſaid Sir <hi>Humphrey Mackworth,</hi> ſhall 
+<note n="*" place="margin">Receivers to redeliver the Books on 12th.
+<hi>January</hi> next, with an Ac<g ref="char:EOLhyphen"/>compt in Wri<g ref="char:EOLhyphen"/>ting of the Mo<g ref="char:EOLhyphen"/>ney
+received.</note>redeliver to the ſaid Managers at their ſaid Office or
+Place of Meeting, or to ſuch other Perſon or Perſons as they or any of
+them ſhall ap<g ref="char:EOLhyphen"/>point as aforeſaid, all the ſaid Books, and therein all the
+Tickets of the firſt and ſecond Columes before mentioned, and ſo many of
+the ſaid Tickets of the ex<g ref="char:EOLhyphen"/>tream Columes (if any ſuch be) as the ſaid
+Receivers ſhall not have cut out and delivered to the Adventurers for their
+Money as aforeſaid, and ſhall then and there alſo deliver to the ſaid
+Managers and Directors a true and juſt Accompt in Writing under their Hands
+of all Sum and Sums of Money accrued or come to the Hands of ſuch Receivers
+reſpectively by or for the Tickets delivered out as aforeſaid, and how the
+ſame, or how much thereof ſhall have been actually paid, by every ſuch
+Receiver into the <hi>Royal Bank</hi> of <hi>England,</hi> to and for the
+Uſes aforeſaid.</p>
+            <p>
+               <note place="margin">That the Ma<g ref="char:EOLhyphen"/>nagers ſhall roll up the Tickets
+in the middle Colume.</note>And the ſaid Managers and Directors, or the major
+part of them, which ſhall be preſent at a meeting as aforeſaid, ſhall
+cauſe all the Tickets of the ſaid middle Colums in the Books which ſhall
+be delivered back to them by or from the ſaid Receivers, in caſe all the
+correſponding Tickets in the extream Colums ſhall have been diſpoſed
+for Money as aforeſaid, to be carefully rolled up and made faſt with Thread
+or Silk: And in caſe all the Tickets in the Extream Colums ſhall not have
+been diſpos'd for Money as aforeſaid, that then the ſaid Managers and
+Directors, or the major part of them which ſhall be preſent as aforeſaid,
+ſhall cauſe ſo many of the Tickets of the ſaid middle Columes as
+ſhall correſpond with, or be the Counter<g ref="char:EOLhyphen"/>parts of thoſe of the extream
+Colums, which ſhall have been cut out and diſpoſed for Money as
+aforeſaid, and none other, to be carefully rolled up and made faſt with
+Thread or Silk, as is before mentioned.</p>
+            <p>
+               <note place="margin">In the preſence of the
+Adven<g ref="char:EOLhyphen"/>turers.</note>And the ſaid Managers and Directors, or the major part of
+them, as aforeſaid, ſhall in their preſence, and in the preſence of
+ſuch of the Adventurers as will be there, cauſe all the Tickets which are
+to be ſo rolled up, and made faſt as a<g ref="char:EOLhyphen"/>foreſaid, to be cut off
+Indentwiſe through the ſaid Oblique Lines, 
+<note place="margin">And put them into a Box lock<g ref="char:EOLhyphen"/>ed with three Locks
+and Keys</note>and put into a Box to be prepared for this purpoſe, and to be
+marked with the Letter <hi>A,</hi> which Box is preſently to be put into
+another ſtrong Box, and to be locked up with three different Locks and Keys,
+to be kept by as many of the ſaid Managers, and ſealed with their Seals, or
+the Seals of ſome of them, until the ſaid Tickets are to be drawn, as is
+herein after mentioned.</p>
+            <p>
+               <note place="margin">And the Tick<g ref="char:EOLhyphen"/>ets in the in<g ref="char:EOLhyphen"/>nermoſt Colums
+remain in the Books, to diſco<g ref="char:EOLhyphen"/>ver any Mi<g ref="char:EOLhyphen"/>ſtake.</note>And that the Tickets
+in the firſt or innermoſt Colums of the ſaid Books ſhall remain ſtill
+in the Books, for diſcovering any miſtake, if any ſuch ſhould happen to
+be committed, contrary to the true meaning of theſe Preſents.</p>
+            <p>And further it is agreed by all the ſaid Parties, That the
+ſaid Managers and Di<g ref="char:EOLhyphen"/>rectors, or the major part of them which ſhall be
+preſent at any Meeting as afore<g ref="char:EOLhyphen"/>ſaid, or ſuch other Perſon or Perſons
+as they ſhall appoint as aforeſaid, ſhall alſo prepare or cauſe to be
+prepared other Books, in which every Leaf ſhall be divided or
+diſtinguiſh'd into two Columes, 
+<note place="margin">The Blank Tickets.</note>and upon the
+innermoſt of thoſe Columes there ſhall be printed Twenty five thouſand
+Tickets, and upon the outermoſt of the ſaid two Columes there ſhall be
+printed Twenty five thouſand Tickets, all which ſhall be of equal length
+and breadth as near as may be; which two Columes in the ſaid Books ſhall be
+joined with ſome Flouriſh or Deviſe through which the outermoſt Tickets
+may be cut off Indentwiſe, 
+<note place="margin">The Fortunate Tickets.</note>and that Two
+thouſand five hun<g ref="char:EOLhyphen"/>dred Tickets, part of thoſe to be contained in the
+outermoſt Columes of the ſaid Books laſt mentioned, ſhall be, and be
+called the <hi>Fortunate Tickets,</hi> to which extraordinary Benefits ſhall
+belong, as is herein after mentioned, and ſhall be made in manner following,
+<hi>viz.</hi>
+            </p>
+            <q>
+               <pb n="7" facs="tcp:47126:4"/> 
+               <table>
+                  <row>
+                     <cell>Fifty Shares Of the Mines late of Sir <hi>Car<g ref="char:EOLhyphen"/>bery
+Pryſe.</hi>
+                     </cell>
+                     <cell>Fifty Shares Of the Mines late of Sir <hi>Car<g ref="char:EOLhyphen"/>bery
+Pryſe.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </q>
+            <p>And the ſaid Managers and Directors, or the major part of them,
+or ſuch of them as ſhall be preſent at a Meeting aforeſaid, or ſuch
+other Perſon or Perſons as they ſhall appoint, ſhall cauſe the ſaid
+Fortunate Tickets to be written upon in words in length, in manner following,
+that is to ſay—</p>
+            <p>
+               <note place="margin">The ſeveral ſorts of them</note>Upon one of
+them, Fifty Shares; upon one other of them, Forty ſhares, and upon every one
+of Ten of them ſeverally, Ten Shares; and upon every one of Twenty of them
+ſeverally, Ten Shares; and upon every one of Twenty of them ſeverally, Five
+Shares; and upon every one of Forty of them ſeverally, Four Shares; and upon
+every one of Two hundred of them ſeverally, Three Shares; and upon every one
+of Four hundred and thirty of them ſeverally, Two Shares; and upon every one
+of One thouſand ſeven hundred ſeventy and eight of them ſeverally, One
+Share; which number of Shares ſo to be written upon the ſaid Fortunate
+Tickets, together with Ten Shares to be allowed to the Owner of the firſt
+drawn Ticket, and Ten Shares to the Owner of the laſt drawn Ticket,
+be<g ref="char:EOLhyphen"/>ſides the Benefits which may happen to belong to the two Tickets laſt
+mentioned, will amount in the whole to Four thouſand and eight Shares.</p>
+            <p>
+               <note place="margin">Theſe Tickets, Fortunate and Blank, to be
+rolled up, and put in another ſtrong Box ſeal<g ref="char:EOLhyphen"/>ed with three Locks and Keys,
+and kept by the Mana<g ref="char:EOLhyphen"/>gers.</note>And all the ſaid Twenty five thouſand
+Tickets, as well the Fortunate as the Blanks, which ſhall be contained in the
+ſaid outermoſt Columes of the Books laſt mentioned, or ſo many
+Thouſand of the ſaid Blanks as the ſaid Managers, or the major part of
+them which ſhall be preſent at a Meeting as aforeſaid ſhall think fit,
+and in the preſence of ſuch Adventurers as will then be there, ſhall be
+carefully rolled up and faſtned with Thread or Silk, and be ſeverally cut
+out indentwiſe through the ſaid Figure or Deviſe into another Box to be
+prepared for that purpoſe, and to be marked with the Letter <hi>B,</hi> which
+Box ſhall preſent<g ref="char:EOLhyphen"/>ly be put into another ſtrong Box, and be locked up
+with Three ſeveral Locks and Keys, to be kept by as many of the ſaid
+Managers, and ſealed up with their Seals, or the Seals of ſome of them,
+until theſe Tickets ſhall alſo be drawn in the manner and form herein
+after mentioned.</p>
+            <p>
+               <note place="margin">No Money to be received after the 12th day of
+<hi>Jan.</hi> 1698.</note>And that no Money ſhall be received from any
+Adventurer as aforeſaid after the Twelfth day of <hi>January</hi> which
+ſhall be in the Year of our Lord 1698. with<g ref="char:EOLhyphen"/>out an Order under the Hand of
+the ſaid Sir <hi>Humphrey Mackworth;</hi> and that the whole Buſineſs of
+rolling up, cutting off, and putting into the ſaid Boxes, the ſaid Tickets,
+and locking up and ſealing the ſaid Boxes, ſhall be performed by the
+ſaid Managers and Directors, or ſuch of them as aforeſaid, on or be<g ref="char:EOLhyphen"/>fore
+the Twenty ſixth Day of <hi>January,</hi> which ſhall be in the ſaid Year
+of our Lord 1698. or ſuch other time as ſhall be appointed under the Hand
+of the ſaid Sir <hi>Humphrey Mackworth,</hi> before the Firſt Day of
+<hi>Auguſt</hi> next enſuing the date of theſe Preſents.</p>
+            <p>
+               <note place="margin">Notice to be gi<g ref="char:EOLhyphen"/>ven in Print of the preciſe
+time of Cutting the Tickets into the ſaid Boxes.</note>And to the end every
+Perſon concerned may be well aſſured that the Counter<g ref="char:EOLhyphen"/>part of the ſame
+Number with the Ticket is put into the Box marked with the Letter <hi>A,</hi>
+from whence the ſame may be drawn, and that other Matters are done as hereby
+directed, ſome Publick Notification in Print ſhall be given of the
+pre<g ref="char:EOLhyphen"/>ciſe Time or Times of Cutting the ſaid Tickets into the ſaid Boxes,
+to the end that ſuch Adventurers as ſhall be minded to ſee the ſame
+done, may be preſent at the doing thereof.</p>
+            <p>
+               <note place="margin">Lots to be drawn on the 26th day of
+<hi>Jan.</hi> 1698. The manner and place of Drawing the Tickets.</note>And
+farther, That on or before the Twenty ſixth Day of <hi>January,</hi> in the
+Year of our Lord 1698. or ſuch other Time as ſhall be appointed under the
+Hand of the ſaid Sir <hi>Humphrey Mackworth</hi> before the Firſt Day of
+<hi>Auguſt</hi> next enſu<g ref="char:EOLhyphen"/>ing the Date of theſe Preſents, the ſaid
+Managers and Directors, or the major part of them then preſent, ſhall
+cauſe the ſaid ſeveral Boxes, with all the Tickets therein, to be brought
+into the <hi>Guildhall,</hi> or ſuch other place as ſhall be appointed 
+<pb n="8" facs="tcp:47126:5"/>by the ſaid Sir <hi>Humphrey Mackworth,</hi> in the City of
+<hi>London,</hi> by Eight of the Clock in the Forenoon in the ſame Day, and
+placed on a Table there for that purpoſe, and ſhall then and there
+ſeverally attend this Service, and cauſe the ſaid two Boxes containing
+the ſaid Tickets to be taken out of the other two Boxes in which they ſhall
+have been lock'd up, and the Tickets or Lots in the reſpective innermoſt
+Boxes, being in the Preſence of the ſaid Managers and Directors, or ſuch
+of them as ſhall be then preſent, and of ſuch Adventurers as will be
+there for the Satisfaction of themſelves, well ſhaken and mingled in each
+Box diſtinctly.</p>
+            <p>Some one indifferent and fit Perſon to be appointed and directed
+by the Ma<g ref="char:EOLhyphen"/>nagers aforeſaid, or the major part of them, or of ſuch of them
+as ſhall be then preſent, ſhall take out or draw one Ticket from that Box
+where the ſaid numbred Tickets ſhall be as aforeſaid put; and one other
+indifferent and fit Perſon to be appointed and directed in like manner,
+ſhall preſently take out a Ticket or Lot from that Box where the ſaid
+Fortunate and Blank Tickets ſhall be promiſcu<g ref="char:EOLhyphen"/>ouſly put, and immediately
+both the Tickets ſo drawn ſhall be opened, and the numbred Ticket, with the
+Day of the Month, the Name, Sirname, Quality, and Place of Abode of the Party
+thereon written, as well as the Fortunate or Blank Ticket, ſhall be named
+aloud.</p>
+            <p>
+               <note place="margin">And of Filing the Tickets.</note>And if the
+Ticket taken or drawn from the Box containing the Fortunate and Blank Lots
+ſhall appear to be a Blank, then the numbred Ticket ſo drawn with the
+ſaid Blank at the ſame time drawn, ſhall both be put upon one File; and
+if the Ticket ſo taken or drawn from the Box containing the Fortunate and
+Blank Lots ſhall appear to be one of the Fortunate Tickets, then the number
+of Shares written upon ſuch Fortunate Ticket, whatſoever it be, and the Day
+of the Month, the Name, Sirname, Quality, and Place of Abode of the Party to
+whom it belongs, written on the ſaid numbred Ticket, 
+<note place="margin">And of Entring the ſame by two Publick
+Notaries on Oath.</note>ſhall be Entred by two Publick Notaries upon Oath, or
+two other Perſons of Credit and Reputation, which the ſaid Managers or the
+major part of them at a meeting as aforeſaid, ſhall employ and overſee
+for this purpoſe, into two Books to be kept for Entring the Numbers coming up
+with the ſaid Fortunate Tickets, and the number of Shares where<g ref="char:EOLhyphen"/>unto they
+ſhall be Intituled reſpectively, and one or more of the ſaid Managers
+ſhall ſet their Names as Witneſſes to every ſuch Entry; and the
+ſaid Fortunate and Numbred Ticket ſo drawn together, ſhall be put upon
+another File.</p>
+            <p>And ſo the ſaid Drawing of the ſaid Tickets ſhall
+continue, by taking one Ticket at a time out of each Box, and with opening,
+naming aloud, and filing the ſame, and by entring the Fortunate Lots in
+ſuch Method as is before men<g ref="char:EOLhyphen"/>tioned, until the whole Number of Tickets
+above-mention'd ſhall be compleatly drawn.</p>
+            <p>And if the ſame cannot be perform'd in one Days time, the ſaid
+Directors or Managers ſhall cauſe the Boxes to be lock'd up and ſealed in
+manner as aforeſaid, and adjourned till the next Day, and ſo from Day to
+Day, and then open the ſame and proceed as above, till the ſaid whole
+Number of Tickets ſhall be com<g ref="char:EOLhyphen"/>pleatly Drawn as aforeſaid. And afterwards
+the ſaid Numbred Tickets ſo Drawn, with the Fortunate Tickets, drawn
+againſt the ſame, ſhall be and re<g ref="char:EOLhyphen"/>main in a ſtrong Box lock'd up as
+aforeſaid, and under the Cuſtody of the ſaid Managers, until they ſhall
+take them out to examine, adjuſt and ſettle the Pro<g ref="char:EOLhyphen"/>perty thereof.</p>
+            <p>
+               <note place="margin"> All the Num<g ref="char:EOLhyphen"/>bred Tickets are to be drawn,
+entred and Fil'd as a<g ref="char:EOLhyphen"/>foreſaid. </note>And it is hereby farther declared,
+That after all the ſaid Benefit Tickets ſhall be drawn in manner as
+aforeſaid, all the reſidue of the ſaid Numbred Tickets ſhall be alſo
+Drawn, Filed and Entred into the ſaid Books by the ſaid Publick No<g ref="char:EOLhyphen"/>taries,
+or other Officers, on Oath, as aforeſaid, and in the Preſence of the ſaid
+Managers or ſome of them, and as many of the ſaid Adventurers as will be
+there, 
+<note place="margin">To give Satis<g ref="char:EOLhyphen"/>faction that e<g ref="char:EOLhyphen"/>very Perſon had a
+fair Chance for their Money.</note>for the Satisfaction of all Perſons
+concerned, that their ſeveral and reſpective Tickets were put into the
+ſaid Box and Drawn, and that they had a fair Chance for their Money.</p>
+            <p>
+               <note place="margin">The Fortunate Adventurers or their Agents to
+appear with their Tickets to the Managers.</note>And farther, That at any time
+after Six Days, and within Sixty Days after the Drawing ſhall be finiſhed,
+the ſeveral Adventurers, or their Agents or Aſſignes, who ſhall be
+actually poſſeſſed of the Numbred Tickets delivered out by the
+aboveſaid Receivers, for which Fortunate Lots ſhall be drawn as
+aforeſaid, ſhall or may appear with the ſaid Tickets ſo in their
+reſpective Poſſeſſions, for the Ma<g ref="char:EOLhyphen"/>nagers, or the major part of them
+which ſhall be preſent at a Meeting as afore<g ref="char:EOLhyphen"/>ſaid, to ſee and take care
+that due Entries be made in the ſaid Books of the re<g ref="char:EOLhyphen"/>ſpective
+<pb n="9" facs="tcp:47126:5"/>Days of the Month, the Names, Sirnames, Qualities and Places
+of Abode of the reſpective Perſons to whom the Fortunate Lots ſhall
+ſeverally belong, as aforeſaid.</p>
+            <p>And 'tis hereby Declared, That the ſeveral Shares of the ſaid
+Mines and Pre<g ref="char:EOLhyphen"/>miſes, and of the Gains, Profits, and Proceeds thereof, ſo
+written upon the ſaid Fortunate Tickets as aforeſaid, ſhall ſeverally
+and reſpectively belong, and be ad<g ref="char:EOLhyphen"/>judged, accepted, and taken to belong and
+appertain to ſuch Perſons reſpective<g ref="char:EOLhyphen"/>ly, whoſe Names are written upon
+the ſaid correſponding Tickets, and entred in the ſaid Books as
+aforeſaid, ſubject to the Covenants and Agreements herein after
+mentioned.</p>
+            <p>
+               <note place="margin">The Fortunate Lots to be Printed with the Names
+of the Parties to whom they be<g ref="char:EOLhyphen"/>long.</note>And to the end the Fortunate,
+whether abſent or preſent, may know to what Degree they have been ſo, as
+ſoon as the Drawing is over, the ſaid Managers ſhall forthwith cauſe to
+be Printed and Publiſhed the Number of the Ticket Drawn againſt each
+Fortunate Ticket, and the Day of the Month, the Name, Sirname, Quality and
+Place of Abode of the Party thereon written, and alſo the Share or Shares of
+the ſaid Mines, late of Sir <hi>Carbery Pryſe,</hi> written on ſuch
+Fortunate Ticket.</p>
+            <p>And it is hereby declared, that in Caſe any Difference,
+Contention or Diſpute ſhall happen or ariſe in adjuſting the Profit of
+the ſaid Fortunate Tickets, the major Part of the ſaid Managers agreeing
+therein, ſhall determine to whom it does and ought to belong.</p>
+            <p>
+               <note place="margin">All the Adven<g ref="char:EOLhyphen"/>turers Names and Places of Abode
+both Fortunate and <g ref="char:V">Ʋ</g>nfortunate, to be entred in a Book in Al<g ref="char:EOLhyphen"/>phabetical
+Or<g ref="char:EOLhyphen"/>der, with the Sums adven<g ref="char:EOLhyphen"/>tured, and the Day of the Month that their
+Principal and Intereſt may be fully paid from that Day.</note>And farther,
+that the ſaid Managers and Directors, or the major part of them, preſent at
+a Meeting, as aforeſaid, ſhall cauſe one Book of Parchment, Vellum or
+Royal Paper to be prepared, and ſhall enter or cauſe to be enter'd therein,
+in an Al<g ref="char:EOLhyphen"/>phabetical Order, the Names and Sirnames, Qualities and Places of
+Abode of the reſpective Perſons who ſhall adventure Five Pounds or more,
+whether Fortunate or Unfortunate, and the reſpective Days of the Month as
+aforeſaid, and againſt every one of their Names the ſeveral and
+reſpective Sum or Sums of Money which ſhall be by every ſuch Perſon
+adventured; which ſaid Book ſhall be Signed and carefully kept by the
+ſaid Managers, or other Perſons by them entruſted as afore<g ref="char:EOLhyphen"/>ſaid, to the
+Intent and Purpoſe that all the ſaid Adventurers, both Fortunate and
+Unfortunate, may have and receive, and be juſtly and punctually repaid all
+ſuch Sum and Sums of Money by them reſpectively adventured as aforeſaid,
+with Lawful Intereſt of 6 <hi>
+                  <abbr>l.</abbr> per Cent.</hi> for the ſame,
+from the Day of the Date entred on the ſaid Tickets reſpectively, in ſuch
+manner and by ſuch Perſons as is herein expreſſed.</p>
+            <p>
+               <note place="margin">Adventurers may have ac<g ref="char:EOLhyphen"/>ceſs to the
+Books.</note>And that every ſuch Adventurer ſhall have Liberty to inſpect
+the ſaid Book and compare the ſame with his ſaid Ticket or Tickets, and
+ſee that a due Entry be made therein according to the ſame, and to the true
+Intent and Meaning of theſe Preſents.</p>
+            <p>
+               <note place="margin">All the Fortu<g ref="char:EOLhyphen"/>nate Adventu<g ref="char:EOLhyphen"/>rers to be en<g ref="char:EOLhyphen"/>tred
+in another Book in Alpha<g ref="char:EOLhyphen"/>betical Order, and the Shares to them
+belong<g ref="char:EOLhyphen"/>ing.</note>And the ſaid Managers, or the major part of them, as
+aforeſaid, ſhall cauſe one other Book of Parchment or Royal Paper to be
+prepared, and ſhall enter or cauſe to be entred therein in a fair Hand, and
+in Alphabetical Order, the Names, Sirnames, Qualities, and Places of Abode of
+the reſpective Perſons who ſhall be Intituled to extraordinary Benefits
+by the ſaid Fortunate Tickets or Lots, and againſt every one of their Names
+the reſpective Shares of and in the ſaid Mines, Stock or Premiſes, which
+he or ſhe reſpectively is to have by Vertue of theſe Pre<g ref="char:EOLhyphen"/>ſents, as well
+in Words at length as in Figures, and the Names, Sirnames, Qualities, and
+Places of Abode of the reſpective Perſons who ſhall be Intituled to the
+ſaid Shares, in reſpect of their Numbers being firſt and laſt drawn as
+aforeſaid, with the Shares belonging to thoſe Perſons reſpectively; and
+that the Book laſt men<g ref="char:EOLhyphen"/>tioned ſhall be ſigned by the ſaid Managers or
+the major part of them, and tranſmitted to the Cuſtody and Keeping of
+ſuch Perſon or Perſons as ſhall be appointed by the Majority of the
+ſaid Fortunate Adventures to be their Book-Keeper, according to the
+Conſtitutions in the ſaid recited Indenture mentioned and ſet forth: And
+that every Perſon ſo to be named in the ſaid Book, ſo to be
+tranſmitted as aforeſaid, his, her, and their Executors, Adminiſtrators,
+and Aſ<g ref="char:EOLhyphen"/>ſigns, ſhall have, receive and enjoy, and be Intituled to have,
+rececive and enjoy, for and during the ſaid ſeveral and reſpective Terms
+of Years above mentioned, the ſeveral and reſpective Shares of the ſaid
+Mines, Stock and Premiſes, with their Appurtenances ſo to be ſet
+againſt his, her, or their Names reſpectively, in the Book laſt mentioned
+as aforeſaid, ſubject nevertheleſs to the Payment of ſuch 
+<pb n="10" facs="tcp:47126:6"/>Sum and Sums of Money to ſuch other Adventurer and
+Adventurers, and other Perſon and Perſons reſpectively as is herein
+mentioned and ſet forth.</p>
+            <p>
+               <note place="margin">Every Adven<g ref="char:EOLhyphen"/>turer, Fortu<g ref="char:EOLhyphen"/>nate or
+<g ref="char:V">Ʋ</g>nfor<g ref="char:EOLhyphen"/>tunate, is enti<g ref="char:EOLhyphen"/>tuled to Prin<g ref="char:EOLhyphen"/>cipal and Inte<g ref="char:EOLhyphen"/>reſt, and to ſe<g ref="char:EOLhyphen"/>veral
+other Payments. ☞</note>And all and every Perſon or Perſons who
+ſhall have contributed or adventur'd any Sum of Five Pounds, or ſeveral
+entire Sums of Five Pounds, as aforeſaid, whe<g ref="char:EOLhyphen"/>ther entituled to a Fortunate
+Lot or not, by the Drawings before mention'd, his, her, and their Executors,
+Adminiſtrators and Aſſigns, ſhall have, receive, and en<g ref="char:EOLhyphen"/>joy, and be
+entituled to have, receive, and enjoy, out of the Firſt Profits of the ſaid
+Mines, Stock and Premiſes, every ſuch Sum or Sums of Five Pounds, with
+Lawful Intereſt for the ſame, at the rate of Six Pounds <hi>per Cent.</hi>
+which ſhall be ſo adventur'd by them or any of them reſpectively as
+aforeſaid, and to the ſeveral Repayments thereof above-mention'd; which
+ſaid Sum and Sums of Five Pound ſhall be paid to ſuch Adventurers
+reſpectively as aforeſaid, by ſuch Perſon and Perſons, as is herein
+ſet forth.</p>
+            <p>
+               <note place="margin">The Perſons employ'd to make ſuch Books and
+En<g ref="char:EOLhyphen"/>tries, as afore<g ref="char:EOLhyphen"/>ſaid.</note>And it is hereby declar'd, That the ſaid two
+Publick Notaries, or other Perſons to be appointed by the ſaid Managers, or
+the major part of them, at a meeting as aforeſaid, for making ſuch Books
+and due Entries of the ſaid Number'd and For<g ref="char:EOLhyphen"/>tunate Tickets, to whom they do
+belong, as aforeſaid, ſhall make a voluntary Affidavit before a
+<hi>Maſter in Chancery,</hi> at, or before the firſt Day of drawing the
+ſaid Tickets, as aforeſaid, in manner and form following; that is to
+ſay,—</p>
+            <q>
+               <note place="margin">To make this Affidavit.</note>I <hi>A. B.</hi>
+do ſwear, that I will faithfully execute the Truſt that is repos'd in me,
+relating to the <hi>Mine-Adventure;</hi> and that I will not uſe any indirect
+Art or Means, or permit or direct any Perſon or Perſons to uſe any
+indirect Art or Means to ob<g ref="char:EOLhyphen"/>tain a Prize or Fortunate Lot for my ſelf, or any
+other Perſon whatſoever; And that I will do my utmoſt endeavour to
+prevent any ſiniſter or undue Practice to be done by any Perſon or
+Perſons whatſoever; And that I will, to the beſt of my Judg<g ref="char:EOLhyphen"/>ment, declare
+to whom any Prize, Lot, or Ticket of right does belong, according to the true
+intent and meaning of the Settlement for that purpoſe made, bearing date the
+1ſt Day of <hi>October,</hi> 1698.</q>
+            <p>
+               <note place="margin">Which ſhall be publickly made on the firſt
+day of Drawing.</note>Which ſaid Affidavit ſhall be produc'd and publickly
+read in the preſence of the ſaid Managers and Adventurers, or ſo many of
+them as ſhall be preſent upon the firſt Day of Drawing the ſaid
+Tickets, as aforeſaid.</p>
+            <p>
+               <note place="margin">Sir <hi>Humphrey Mackworth</hi> voluntarily
+ob<g ref="char:EOLhyphen"/>liges himſelf to make the ſame Affidavit.</note>
+               <hi rend="blackletterType">And</hi> the ſaid Sir <hi>Humphrey Mackworth</hi> doth
+hereby declare, That he the ſaid Sir <hi>Humphrey Mackworth</hi> ſhall and
+will, at or before the ſaid firſt Day of Draw<g ref="char:EOLhyphen"/>ing the ſaid Tickets
+above-mention'd, in like manner make a voluntary Affidavit before a
+<hi>Maſter in Chancery</hi> to the effect above-mention'd; which ſaid
+Affidavit ſhall likewiſe be produc'd, and publickly read, at the time and
+place of drawing, as aforeſaid.</p>
+            <p>
+               <note place="margin">Partners may take out Tick<g ref="char:EOLhyphen"/>ets without ready
+Money, upon the Cre<g ref="char:EOLhyphen"/>dit of their Shares.</note>And that it ſhall and may be
+lawful to and for all and every the ſaid Partner and Partners
+above-mentioned, to take out any Number of the ſaid Tickets, not exceeding
+the Value of their reſpective Shares at Twenty Pounds <hi>per</hi> Share, as
+is above-mentioned, without paying ready Money for the ſame, upon the Cre<g ref="char:EOLhyphen"/>dit
+of the ſaid ſeveral and reſpective Shares,; and every ſuch Partner
+ſhall be deemed an Adventurer in this Undertaking, and have equal Benefit
+thereof, as if he had paid down ready Money for his reſpective Tickets.</p>
+            <p>
+               <note place="margin">The recited In<g ref="char:EOLhyphen"/>denture <hi>Qua<g ref="char:EOLhyphen"/>drupartite</hi>
+con<g ref="char:EOLhyphen"/>firmed.</note>And it is hereby declared, That the ſaid New Conſtitution
+for the Manage<g ref="char:EOLhyphen"/>ment of the ſaid Mines, Stock, and Premiſes, and every
+Article, Clauſe, Cove<g ref="char:EOLhyphen"/>nant and Agreement in the ſaid recited Indenture
+<hi>Quadrupartite</hi> contained, ſhall be ratified and confirm'd by the
+Fortunate Adventurers, to all Intents and Pur<g ref="char:EOLhyphen"/>poſes whatſoever.</p>
+            <p>
+               <note place="margin">A proportionable Abatement to be made for the
+Shares of ſuch Partners who ſhall not Exe<g ref="char:EOLhyphen"/>cute the ſaid recited
+Inden<g ref="char:EOLhyphen"/>ture.</note>And that in caſe any of the ſaid Partners above named
+ſhall not Seal and Exe<g ref="char:EOLhyphen"/>cute the ſaid recited Indenture
+<hi>Quadrupartite,</hi> that then as to ſo many Shares of the ſaid Mines,
+Stock and Premiſes as ſhall belong to ſuch Partner and Partners ſo
+refuſing or neglecting to Execute the ſaid recited Indenture as
+aforeſaid, a proportionable Abatement ſhall be made of the ſaid numbred
+and Fortunate Tickets accordingly; that is to ſay; As Twenty Five Thouſand
+Tickets is to Four thou<g ref="char:EOLhyphen"/>ſand and eight Shares, ſo the number of Tickets
+which ſhall be taken out as afore<g ref="char:EOLhyphen"/>ſaid, ſhall be to the certain Number of
+Shares of ſuch Partners who ſhall Seal and Execute the ſaid recited
+Indenture <hi>Quadrupartite;</hi> and in ſuch caſe a diligent Calculation
+ſhall be made by the ſaid Managers and Directors, or the major part of them
+who ſhall cauſe the ſeveral and reſpective number of Shares written
+up<g ref="char:EOLhyphen"/>on<pb n="11" facs="tcp:47126:6"/>the ſaid Fortunate Tickets, and the Shares for the
+firſt and laſt drawn Tickets to be proportioned accordingly, yet ſo as
+that every numbred Ticket which ſhall be drawn, not having a Fortunate Lot to
+come up with it, ſhall nevertheleſs be Intituled to Five Pounds, and lawful
+Intereſt for the ſame as aforeſaid, and alſo to the ſeveral other
+Advantages above-mentioned.</p>
+            <p>
+               <note place="margin">Sir <hi>H. M.</hi> In<g ref="char:EOLhyphen"/>dempnified for all Acts
+done purſuant to the Intent of theſe Preſents.</note>And that the ſaid
+Sir <hi>Humphrey Mackworth,</hi> his Executors, Adminiſtrators and
+Aſſigns ſhall be from time to time, and at all times hereafter by and out
+of the Profits of the ſaid Mines, Stock and Premiſes ſaved Harmleſs and
+Indempnified of and from all Actions and Suits whatſoever, either in Law or
+Equity, and of and from all Coſts, Charges, Damages, and Troubles
+whatſoever, which he or they ſhall or may pay, bear or ſuſtain for or
+by reaſon of any Act or Thing whatſoever, to be done or ſuffered by him
+the ſaid Sir <hi>Humphrey Mackworth,</hi> in purſuance of and according to
+the true Intent and Meaning of theſe Preſents, and of the ſaid re<g ref="char:EOLhyphen"/>cited
+Indenture.</p>
+            <p>
+               <note place="margin">That until the Tickets can be got ready,
+Sub<g ref="char:EOLhyphen"/>ſcriptions may be taken.</note>And the ſaid Sir <hi>Humphrey
+Mackworth</hi> doth propoſe, declare, direct and ap<g ref="char:EOLhyphen"/>point that it ſhall and
+may be lawful to and for the ſaid Sir <hi>Humphrey Mackworth,</hi> by any
+Writing under his Hand, to depute and appoint any Number of Perſons to take
+and receive all ſuch voluntary Subſcriptions as ſhall be made by or for
+any Perſon or Perſons, for any Sum or Sums of Money whatſoever, not
+leſs than Ten Pounds, for the taking out ſo many Tickets in this Adventure
+as ſhall anſwer the Value thereof; and that one or more Books of Parchment
+or Royal Paper ſhall be provided for the ſaid Subſcriptions to be made
+thereupon, and that an Inſtru<g ref="char:EOLhyphen"/>ment in Writing ſhall be prepared for that
+purpoſe, upon Stamp Parchment, or Royal Paper, in manner and to the Effect
+following, that is to ſay,</p>
+            <q>
+               <note place="margin">The Form of the Inſtrument of
+Subſcription.</note>
+               <hi rend="blackletterType">Know all Men</hi> by theſe
+Preſents, That we whoſe Names are hereunto ſubſcribed, Partners of the
+Mines (late of Sir <hi>Carbery Pryſe</hi>) and others, do hereby ſeverally
+and not jointly, or the one for the other of us, oblige our ſelves in manner
+following, that is to ſay, We who are Partners in the ſaid Mines, do hereby
+elect to become Adventurers with Sir <hi>Humphrey Mackworth</hi> in the
+<hi>Mine-Adventure,</hi> and do oblige our ſelves, our Executors,
+Adminiſtrators and Aſſigns, to accept of, and take out Tickets for and in
+liew of our ſeveral and reſpective ſhares therein, at the rate and value
+of Twenty Pounds for every Share, according to his Propoſal contained in one
+Deed Poll bearing Date the Firſt Day of <hi>October,</hi> 1698. and we the
+ſaid Partners ſubſcribing for more than our reſpe<g ref="char:EOLhyphen"/>ctive Shares, and we
+who are not Partners in the ſaid Mines, do hereby oblige our ſelves, our
+Executors, Adminiſtrators and Aſſigns, ſeverally, and not jointly, or
+the one for the other of us, to pay or cauſe to be paid to Sir <hi>Thomas
+Mackworth</hi> of <hi>Normanton</hi> in the County of <hi>Rutland,</hi>
+Baronet, and the ſaid Sir <hi>Humphrey Mackworth,</hi> or one of them, their
+or one of their Orders, on or before the Second Day of <hi>December</hi> next,
+at the Cham<g ref="char:EOLhyphen"/>bers of Sir <hi>Humphrey Mackworth,</hi> in <hi>Lincolns-Inn</hi>
+New Square, the remain<g ref="char:EOLhyphen"/>ing part of the ſeveral and reſpective Sums of Money
+by us reſpectively ſubſcribed, and in default thereof, that One Tenth
+Part of the Money ſo by us reſpectively ſubſcribed as afore<g ref="char:EOLhyphen"/>ſaid, and
+paid down at the Time of our reſpective Subſcriptions, ſhall be forfeit
+and loſt to the ſaid Sir <hi>Thomas</hi> and Sir <hi>Humphrey
+Mackworth,</hi> to the Uſes in the ſaid Deed mentioned.</q>
+            <p>
+               <note place="margin">
+                  <g ref="char:V">Ʋ</g>pon each Sub<g ref="char:EOLhyphen"/>ſcription a Re<g ref="char:EOLhyphen"/>ceipt to be
+gi<g ref="char:EOLhyphen"/>ven.</note>
+               <hi rend="blackletterType">And</hi> it is hereby declared and agreed,
+that the ſaid Sir <hi>Thomas</hi> and Sir <hi>Humphrey Mackworth,</hi> or the
+ſaid reſpective Perſons ſo deputed as aforeſaid, to take the
+Sub<g ref="char:EOLunhyphen"/>ſcriptions, or ſuch Caſhier or Caſhiers who ſhall be appointed to
+receive all or any of the ſaid Payments upon the ſaid Subſcriptions,
+ſhall immediately from time to time, give to the Perſons paying the ſaid
+Tenth Part of the Money by them reſpectively ſubſcribed as aforeſaid, a
+Receipt in Writing for the ſeveral and reſpective Sums ſo received in
+manner following, to wit,</p>
+            <q>
+               <note place="margin">The Receipt.</note>We Sir <hi>Thomas
+Mackworth</hi> and Sir <hi>Humphrey Mackworth</hi> do hereby acknow<g ref="char:EOLhyphen"/>ledge to
+have received from <hi>A. B.</hi> the Sum of Ten Pounds, being the Tenth part
+of One Hundred Pounds Subſcribed by the ſaid <hi>A.B.</hi> for Twenty
+Tickets in the Mine-Adventure, which Tickets we do hereby jointly and
+ſeverally promiſe to deliver, or cauſe to be delivered to the ſaid
+<hi>A. B.</hi> or his Order upon payment of the further Sum of Ninety Pounds to
+Sir <hi>Thomas</hi> and Sir <hi>Humphrey Mackworth,</hi> their or either of
+their Orders, at the Cham<g ref="char:EOLhyphen"/>bers of the ſaid Sir <hi>Humphrey Mackworth,</hi>
+in <hi>Lincolns-Inn</hi> New Square, at or be<g ref="char:EOLhyphen"/>fore the Second Day of
+<hi>December</hi> next. And we do hereby jointly and ſeverally promiſe to
+repay the ſaid Sum of One Hundred Pounds to the ſaid <hi>A. B.</hi> in
+caſe this Adventure be not drawn within the Time for that purpoſe limited
+and appointed in the <hi>Mine-Ad<g ref="char:EOLhyphen"/>venture. In Witneſs</hi> whereof we have
+hereunto ſet our Hands this preſent Third Day of <hi>October,</hi> in the
+Year of our Lord 1698.</q>
+            <p>
+               <pb n="12" facs="tcp:47126:7"/>
+               <note place="margin">Every perſon is to receive
+In<g ref="char:EOLhyphen"/>treſt from the day of Subſcrip<g ref="char:EOLhyphen"/>tion.</note>And every Perſon ſo
+Subſcribing as aforeſaid, ſhall have and receive his, her and their
+Intereſt-money at the rate of Six Pounds <hi>per Cent.</hi> for the whole Sum
+ſo by them and every of them reſpectively Subſcribed from the day of
+making every ſuch Subſcription as aforeſaid, which ſhall be entred upon
+their reſpective Tickets accordingly.</p>
+            <p>
+               <note place="margin">
+                  <g ref="char:V">Ʋ</g>pon Payment of the Reſidue.</note>And upon
+Payment of the reſidue of the Money ſubſcribed by any Perſon or
+Perſons whatſoever, they the ſaid Sir <hi>Thomas</hi> and Sir
+<hi>Humphrey Mackworth</hi> ſhall and will give a Receipt in Writing for the
+ſeveral Sums ſo received, in manner following, that is to ſay,</p>
+            <q>
+               <note place="margin">A Receipt.</note>We Sir <hi>Thomas
+Mackworth</hi> and Sir <hi>Humphrey Mackworth</hi> do hereby acknow<g ref="char:EOLhyphen"/>ledge to
+have received from <hi>A. B.</hi> the Sum of Ninety Pounds, being the reſidue
+of One Hundred Pounds ſubſcribed by the ſaid <hi>A. B.</hi> for Tickets
+in the <hi>Mine-Adventure,</hi> which Tickets are delivered to the ſaid
+<hi>A. B.</hi> at the time of ſigning this Receipt, and we do hereby jointly
+and ſeverally promiſe to repay the ſaid Sum of One Hundred Pounds to the
+ſaid <hi>A. B.</hi> in caſe this Adventure be not drawn within the time for
+that purpoſe limited and appointed in the Settlement of the
+<hi>Mine-Adventure.</hi>
+            </q>
+            <p>
+               <note place="margin">Bank Bills to be kept in the Iron Cheſt by
+Sir <hi>Thomas</hi> and Sir <hi>Hum<g ref="char:EOLhyphen"/>phrey Mack<g ref="char:EOLhyphen"/>worth.</hi>
+               </note>
+               <hi rend="blackletterType">And</hi> 'tis hereby declared, That all and every Bank-Bill
+and Bank-Bills which ſhall be from time to time, or at any time hereafter,
+had, taken, or received by the ſaid Receivers and Caſhiers, or any of them,
+in the Name of the ſaid Sir <hi>Thomas</hi> and Sir <hi>Humphrey
+Mackworth,</hi> as aforeſaid, ſhall be by them and every of them, within
+the Space of Six Days after every ſuch Receipt, delivered to the ſaid Sir
+<hi>Thomas</hi> and Sir <hi>Humphrey Mackworth,</hi> to the Intent and
+Purpoſe that they the ſaid Sir <hi>Thomas</hi> and Sir <hi>Humphrey
+Mackworth,</hi> ſhall and may keep the ſaid Bank-Bills and every of them,
+in the great Iron Cheſt belonging to the ſaid Partners, with Two ſeveral
+Locks and Keys, whereof the ſaid Sir <hi>Thomas Mack<g ref="char:EOLhyphen"/>worth</hi> ſhall have
+the Cuſtody of one Key, and the ſaid Sir <hi>Humphrey Mackworth</hi>
+ſhall have the Cuſtody of the other Key.</p>
+            <p>
+               <note place="margin">All Monies re<g ref="char:EOLhyphen"/>ceived to be di<g ref="char:EOLhyphen"/>ſtributed
+ac<g ref="char:EOLhyphen"/>cording to theſe Preſents.</note>And that all and every Sum and Sums of
+Money which ſhall be had and re<g ref="char:EOLhyphen"/>ceived by the ſaid Sir <hi>Thomas</hi> and
+Sir <hi>Humphrey Mackworth,</hi> for, upon Account or by reaſon of theſe
+Preſents and the ſaid recited Indenture Quadrupartite, or either of them
+ſhall be paid and diſtributed to the ſeveral Perſon and Perſons and
+for the ſeveral Uſes Intents and Purpoſes, and in ſuch Proportion
+Manner and Form, as is herein and in the ſaid recited Indenture
+Quadrupartite, directed and appointed.</p>
+            <p>
+               <note place="margin">Partners obli<g ref="char:EOLhyphen"/>ged to pay their Debts.</note>And
+laſtly, the ſaid Sir <hi>Humphrey Mackworth</hi> doth propoſe, declare,
+direct and appoint, That in caſe the ſaid Partners or any of them are or
+ſtand indebted at the time of the executing of theſe Preſents to any
+Perſon or Perſons in any Sum or Sums of Money whatſoever, and in caſe
+any Controverſie and Diſpute ſhall happen to ariſe between ſuch
+Partners ſo indebted as aforeſaid, or any of them, and their ſeveral and
+reſpective Creditor or Creditors, or any of them as afore<g ref="char:EOLhyphen"/>ſaid, for,
+touching or concerning the Intereſt or Shares of ſuch Partners ſo
+in<g ref="char:EOLhyphen"/>debted as aforeſaid, or any of them, of and in the ſaid Mines, that
+then, and in ſuch Caſes, upon Notice in Writing to <hi>Francis Pigot</hi>
+and <hi>Anthony Forty,</hi> Secretary and Accomptant to the ſaid Partners, or
+either of them given by ſuch Creditor or Creditors reſpectively as
+aforeſaid, and they the ſaid Creditor and Creditors reſpectively, giving
+good ſecurity to ſave harmleſs and indempnifie the ſaid Part<g ref="char:EOLhyphen"/>ners, and
+every of them for ſo doing, the ſaid Partners ſhall and may retain all
+and every Ticket and Tickets belonging to ſuch Partners reſpectively, and
+all and every Sum and Sums of Money which ſhall come to their or any of their
+Hands reſpectively as aforeſaid, which ſhall then be due and payable by
+Virtue of theſe Preſents, to any ſuch Partner or Partners ſo indebted
+as aforeſaid, until the ſaid Controverſie ſhall be determined by
+Arbitration, or Suit either at Law or Equity; and the Partners and every of
+them ſaved Harmleſs and Indempnified for the Payment thereof.</p>
+            <p>
+               <note place="margin">A Proviſo to ex<g ref="char:EOLhyphen"/>plain the Pro<g ref="char:EOLhyphen"/>poſal, not
+al<g ref="char:EOLhyphen"/>tering the Sub<g ref="char:EOLhyphen"/>ſtance.</note>And that it ſhall and may be Lawful to and
+for the ſaid Sir <hi>Humphrey Mack<g ref="char:EOLhyphen"/>worth,</hi> by and with the Conſent of
+the major number of the ſaid Managers to amend and explain this preſent
+Propoſal and Expedient, or any part of the ſame, not altering the
+Subſtance thereof.</p>
+            <closer>
+               <signed>In Witneſs whereof the ſaid Sir <hi>Humphrey
+Mackworth</hi> hath hereunto ſet his Hand and Seal</signed>
+               <dateline>
+                  <date>this preſent Firſt Day of <hi>October;</hi> in the Year of
+our Lord 1698.</date>
+               </dateline>
+            </closer>
+            <pb facs="tcp:47126:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
